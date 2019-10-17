@@ -1,0 +1,9 @@
+/home/ist/spring-boot-demo/src/main/java/com/concretepage/entity/Article.java
+/home/ist/spring-boot-demo/src/main/java/com/concretepage/filter/CORSFilter.java
+/home/ist/spring-boot-demo/src/main/java/com/concretepage/service/ArticleService.java
+/home/ist/spring-boot-demo/src/main/java/com/concretepage/dao/ArticleDAO.java
+/home/ist/spring-boot-demo/src/main/java/com/concretepage/dao/IArticleDAO.java
+/home/ist/spring-boot-demo/src/main/java/com/concretepage/ApplicationStarter.java
+/home/ist/spring-boot-demo/src/main/java/com/concretepage/endpoint/ArticleEndpoint.java
+/home/ist/spring-boot-demo/src/main/java/com/concretepage/service/IArticleService.java
+/home/ist/spring-boot-demo/src/main/java/com/concretepage/config/JerseyConfig.java
