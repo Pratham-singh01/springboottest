@@ -37,6 +37,12 @@ public class ArticleEndpoint {
 		return Response.ok(list).build();
 	}
 	@GET
+	@Path("/detailsnew")
+	@Produces(MediaType.APPLICATION_JSON)
+	public Response getArticleDetailsnew() {
+		List<Article> list = articleService.getAllArticles(); 
+		return Response.ok(list).build();
+	@GET
 	@Path("/{id}")
 	@Produces(MediaType.APPLICATION_JSON)
 	public Response getArticleById(@PathParam("id") Integer id) {
